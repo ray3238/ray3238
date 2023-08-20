@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Stdio-5C2D91?style/badge&logo=Visual-Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style/badge&logo=Xcode&logoColor=white">
 
