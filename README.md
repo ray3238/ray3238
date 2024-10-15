@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   
   <p align='center'>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-F05138?style=flat-square&logo=C&logoColor=white"/>
 
 <br><br>
 ## 🔨tool🔨
